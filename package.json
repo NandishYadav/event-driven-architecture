@@ -1,0 +1,14 @@
+{
+  "name": "event-driven-architecture",
+  "version": "1.0.0",
+  "description": "example for event driven architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "keywords": [
+    "event"
+  ],
+  "author": "Nandish",
+  "license": "ISC"
+}
