@@ -7,8 +7,9 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
 </p>
-
-> Event Example in Node.js
+<h3 align="Left">Overview</h3>
+<p>This Node.js example demonstrates basic event-driven architecture using Node.js's built-in events module. It showcases how to create an event emitter, define event listeners, and emit events.</p>
+>
 
 ## Install
 
